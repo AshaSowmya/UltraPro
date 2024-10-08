@@ -20,7 +20,9 @@ function SpecialShow(){
               collaborators. Puth has amassed eight multi-platinum singles, four
               GRAMMY nominations, two Billboard Music Awards.
             </p>
+            <div class="image-container">
             <img src={Image} alt="Charlie Puth" />
+            </div>
             <p className="secondPara">
               Was RIAA certified gold only four days after its release and has
               logged five billion streams worldwide. In 2020, Puth’s

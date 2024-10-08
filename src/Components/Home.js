@@ -1,7 +1,7 @@
 import React from "react";
 import '../Styles/main.css' 
 import Navbar from './Navbar'
-// import '../Styles/home.css'
+
 import Video from '../Images/bgVideo.mp4'
 function Home() {
 

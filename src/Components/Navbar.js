@@ -14,8 +14,9 @@ function Navbar() {
     <header>
       <img src={Logo} alt="Logo" />
       <nav ref={navRef}>
+      <a id="home"href="#home">Home</a>
         <a href="#ecosystem">Ecosystem</a>
-        <a href="#about-us">About Us</a>
+        <a href="#about-us">About</a>
         <a href="#blog">Blog</a>
         <a href="#token">Token</a>
         <a href="#expo">Expo</a>
